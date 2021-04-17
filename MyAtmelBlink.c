@@ -1,6 +1,6 @@
 // MyAtmelBlink.c
 
-// put LED on PC5
+// put LED on PB5
 
 #ifndef F_CPU					// if F_CPU was not defined in Project -> Properties
 #define F_CPU 16000000UL			// define it now as 16 MHz unsigned long
